@@ -1,0 +1,20 @@
+{
+  "name": "tictactoecl",
+  "version": "1.0.0",
+  "description": "Tic Tac Toe for Command Line",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertchanged/TicTacToeCL.git"
+  },
+  "author": "Albert Chang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albertchanged/TicTacToeCL/issues"
+  },
+  "homepage": "https://github.com/albertchanged/TicTacToeCL#readme"
+}
